@@ -1,5 +1,3 @@
-Perfect 👍 Here is your complete updated README including the yield() method.
-You can copy-paste everything directly into your README.md.
 
 ☕ Java Multithreading Practice Repository
 
